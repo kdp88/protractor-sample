@@ -1,0 +1,21 @@
+
+node_modules/
+
+package-lock.json
+
+
+#reports/screenshots contents
+/reports/screenshots/*
+/debug.log
+/.idea/codeStyles/codeStyleConfig.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/protractor-sample.iml
+/.idea/vcs.xml
+/.idea/workspace.xml
+/.env
+/xmlresults.xml
+
+#vs code
+/.vscode
+/dist
